@@ -1,7 +1,5 @@
 package com.senacor.interview.listmerge.model;
 
-import java.util.List;
-
 public class Student extends Person {
 
     private final String studentId;

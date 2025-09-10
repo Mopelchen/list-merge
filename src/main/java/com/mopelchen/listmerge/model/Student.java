@@ -1,4 +1,4 @@
-package com.senacor.interview.listmerge.model;
+package com.mopelchen.listmerge.model;
 
 public class Student extends Person {
 

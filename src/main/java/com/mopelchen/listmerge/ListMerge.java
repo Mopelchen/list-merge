@@ -1,9 +1,9 @@
-package com.senacor.interview.listmerge;
+package com.mopelchen.listmerge;
 
 
-import com.senacor.interview.listmerge.model.Person;
-import com.senacor.interview.listmerge.model.Student;
-import com.senacor.interview.listmerge.repo.StudentRepository;
+import com.mopelchen.listmerge.model.Person;
+import com.mopelchen.listmerge.model.Student;
+import com.mopelchen.listmerge.repo.StudentRepository;
 
 import java.util.Arrays;
 import java.util.Collections;

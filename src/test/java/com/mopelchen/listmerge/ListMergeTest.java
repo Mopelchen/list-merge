@@ -1,6 +1,6 @@
-package com.senacor.interview.listmerge;
+package com.mopelchen.listmerge;
 
-import com.senacor.interview.listmerge.model.Student;
+import com.mopelchen.listmerge.model.Student;
 import org.junit.Test;
 
 import java.util.List;
